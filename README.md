@@ -1,2 +1,3 @@
 # Common_data_model_Framework
-The Common Data Model standard defines a common language for business entities covering, over time, the full range of business processes across sales, services, marketing, operations, finance, talent, and commerce and for the Customer, People, and Product entities at the core of a company's business processes. The goal of CDM is to enable data and application interoperability spanning multiple channels, service implementations, and vendors. CDM provides self-describing data (structurally and semantically), enabling applications to easily read and understand the data.
+
+The goal of this framework is to transform research data that exist within Icipe data space and create a standard common language that will define processes across different research groups and support the core research objectives.
